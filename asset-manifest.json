@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/meetings-callendar/static/css/main.a5b73f6b.chunk.css",
-    "main.js": "/meetings-callendar/static/js/main.3db43462.chunk.js",
-    "main.js.map": "/meetings-callendar/static/js/main.3db43462.chunk.js.map",
+    "main.css": "/meetings-callendar/static/css/main.039fa4c5.chunk.css",
+    "main.js": "/meetings-callendar/static/js/main.ad6c5d45.chunk.js",
+    "main.js.map": "/meetings-callendar/static/js/main.ad6c5d45.chunk.js.map",
     "runtime-main.js": "/meetings-callendar/static/js/runtime-main.463a38f9.js",
     "runtime-main.js.map": "/meetings-callendar/static/js/runtime-main.463a38f9.js.map",
     "static/js/2.21b92382.chunk.js": "/meetings-callendar/static/js/2.21b92382.chunk.js",
     "static/js/2.21b92382.chunk.js.map": "/meetings-callendar/static/js/2.21b92382.chunk.js.map",
     "index.html": "/meetings-callendar/index.html",
-    "precache-manifest.1a973b959a4f9a35d810c76effebf90f.js": "/meetings-callendar/precache-manifest.1a973b959a4f9a35d810c76effebf90f.js",
+    "precache-manifest.acd806aba39e1e48b3e3c5ac6b203cca.js": "/meetings-callendar/precache-manifest.acd806aba39e1e48b3e3c5ac6b203cca.js",
     "service-worker.js": "/meetings-callendar/service-worker.js",
-    "static/css/main.a5b73f6b.chunk.css.map": "/meetings-callendar/static/css/main.a5b73f6b.chunk.css.map"
+    "static/css/main.039fa4c5.chunk.css.map": "/meetings-callendar/static/css/main.039fa4c5.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.463a38f9.js",
     "static/js/2.21b92382.chunk.js",
-    "static/css/main.a5b73f6b.chunk.css",
-    "static/js/main.3db43462.chunk.js"
+    "static/css/main.039fa4c5.chunk.css",
+    "static/js/main.ad6c5d45.chunk.js"
   ]
 }
